@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HiBangkok01Prj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+994dfa0aabfc6a1622a42973cb23eeee8241c922")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a81836e4ccdd6aa0d45cd4512e96ac67f82100f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("HiBangkok01Prj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HiBangkok01Prj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
