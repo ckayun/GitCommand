@@ -1,0 +1,15 @@
+/workspaces/GitCommand/HiBangkok01Prj/bin/Debug/net8.0/HiBangkok01Prj
+/workspaces/GitCommand/HiBangkok01Prj/bin/Debug/net8.0/HiBangkok01Prj.deps.json
+/workspaces/GitCommand/HiBangkok01Prj/bin/Debug/net8.0/HiBangkok01Prj.runtimeconfig.json
+/workspaces/GitCommand/HiBangkok01Prj/bin/Debug/net8.0/HiBangkok01Prj.dll
+/workspaces/GitCommand/HiBangkok01Prj/bin/Debug/net8.0/HiBangkok01Prj.pdb
+/workspaces/GitCommand/HiBangkok01Prj/obj/Debug/net8.0/HiBangkok01Prj.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/GitCommand/HiBangkok01Prj/obj/Debug/net8.0/HiBangkok01Prj.AssemblyInfoInputs.cache
+/workspaces/GitCommand/HiBangkok01Prj/obj/Debug/net8.0/HiBangkok01Prj.AssemblyInfo.cs
+/workspaces/GitCommand/HiBangkok01Prj/obj/Debug/net8.0/HiBangkok01Prj.csproj.CoreCompileInputs.cache
+/workspaces/GitCommand/HiBangkok01Prj/obj/Debug/net8.0/HiBangkok01Prj.sourcelink.json
+/workspaces/GitCommand/HiBangkok01Prj/obj/Debug/net8.0/HiBangkok01Prj.dll
+/workspaces/GitCommand/HiBangkok01Prj/obj/Debug/net8.0/refint/HiBangkok01Prj.dll
+/workspaces/GitCommand/HiBangkok01Prj/obj/Debug/net8.0/HiBangkok01Prj.pdb
+/workspaces/GitCommand/HiBangkok01Prj/obj/Debug/net8.0/HiBangkok01Prj.genruntimeconfig.cache
+/workspaces/GitCommand/HiBangkok01Prj/obj/Debug/net8.0/ref/HiBangkok01Prj.dll
