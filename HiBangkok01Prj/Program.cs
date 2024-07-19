@@ -6,6 +6,7 @@ namespace HiBangkok01Prj {
         static void Main(string[] args) {
             Console.WriteLine("Hi Bangkok.");
             Console.WriteLine("Now it is {0}.", DateTime.Now.ToString());
+            Console.WriteLine("Random number (1-1000): {0}.", new Random().Next(1, 1000));
         }
     }
 }
